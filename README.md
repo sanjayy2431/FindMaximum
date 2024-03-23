@@ -52,8 +52,12 @@ def max_marks(list1):
 ## Output:
 #SORT()
 ![Screenshot 2024-03-23 110208](https://github.com/sanjayy2431/FindMaximum/assets/149365143/8df6c6fd-f726-43fb-8f91-65c769d9003a)
+
+
 #MAX()
 ![image](https://github.com/sanjayy2431/FindMaximum/assets/149365143/4b214e92-2405-4802-a600-847d84cc5410)
+
+
 #BUILT-IN FUNCTION()
 ![Screenshot 2024-03-23 111441](https://github.com/sanjayy2431/FindMaximum/assets/149365143/136f4a70-9a5a-457f-acb0-e8b0a89fd685)
 
