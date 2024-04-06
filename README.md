@@ -9,12 +9,12 @@ To write a program to find the maximum of a list of numbers.
 2.	Use the sort() function or max() function or use the for loop to find the maximum mark.
 3.	Return the maximum value
 ## Program:
-
-i)	# To find the maximum of marks using the list method sort.
+## Developed by: V.sanjay
+## Register number: 212223230188
+## i)	 To find the maximum of marks using the list method sort.
 ```
 #Program to mark the maximum of marks using the list method sort
-#Developed by: V.sanjay
-#Register number: 212223230188
+
 
 def max_marks(marks):
     marks.sort()
@@ -26,11 +26,9 @@ def max_marks(marks):
 
 ```
 
-ii)	# To find the maximum marks using the list method max().
+## ii)	 To find the maximum marks using the list method max().
 ```
-#Program to find the maximum marks using the list method max()
-#Developed by: V.sanjay
-#Regsiter number: 212223230188
+
 
 def max_marks(marks):
     large = max(marks)
@@ -41,11 +39,9 @@ def max_marks(marks):
 
 ```
 
-iii) # To find the maximum marks without using builtin functions.
+## iii)  To find the maximum marks without using builtin functions.
 ```
-#Program to find the maximum marks without using builtin functions
-#Developed by: V.sanjay
-#Register number: 212223230188
+
 
 def max_marks(list1):
     max=list1[0]
@@ -63,17 +59,16 @@ def max_marks(list1):
 
 ## Output:
 ## SORT()
-![image](https://github.com/sanjayy2431/FindMaximum/assets/149365143/9a3bee66-0a46-4d2e-a84f-4be47e436a88)
 
+![alt text](image.png)
 
 
 ## MAX()
-![image](https://github.com/sanjayy2431/FindMaximum/assets/149365143/2f7032a8-3e3c-496a-bd73-fcede42c9452)
-
+![alt text](<image copy.png>)
 
 
 ## BUILT-IN FUNCTION()
-![image](https://github.com/sanjayy2431/FindMaximum/assets/149365143/49f1e653-7f71-4162-9a04-b5362376b2c7)
+![alt text](<image copy 2.png>)
 
 
 
